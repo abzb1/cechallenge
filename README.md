@@ -5,7 +5,7 @@ https://cechallenge.github.io/
 conda 환경은 yaml파일로 업드로 해두었음 [링크](https://github.com/abzb1/cechallenge/blob/main/cechallenge.yaml)   
 
 기존 Llama v1 30B의 4-way TP 가중치를 조립 후 해체하여 4-way PP로 구성
-HellaSwag dataset Validation set에 대해 1.5x 가속(5914s -> 4111s)   
+HellaSwag dataset Validation set에 대해 1.44x 가속(5914s -> 4111s)   
 
 ### 코드 사용법   
 conda 환경에서 torchrun.sh 파일을 이용하여 멀티프로세스 스폰   
