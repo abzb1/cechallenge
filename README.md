@@ -2,7 +2,7 @@
 https://cechallenge.github.io/   
 
 사용한 환경이 권한상 docker를 사용할 수 없는 환경이라 conda를 사용함   
-conda 환경은 yaml파일로 업드로 해두었음 [링크](www.naver.com)   
+conda 환경은 yaml파일로 업드로 해두었음 [링크](https://github.com/abzb1/cechallenge/blob/main/cechallenge.yaml)   
 
 기존 Llama v1 30B의 4-way TP 가중치를 조립 후 해체하여 4-way PP로 구성
 HellaSwag dataset Validation set에 대해 1.5x 가속(60s -> 40s)   
