@@ -14,4 +14,4 @@ conda 환경에서 torchrun.sh 파일을 이용하여 멀티프로세스 스폰
 
 ### PP 가중치
 아래 구글 드라이브 링크 활용   
-[링크](https://drive.google.com/drive/folders/1mfmqJw4gydEIhyvuKZS2uPqJ3GyURUUa?usp=drive_link)
+[링크](https://drive.google.com/drive/folders/1mfmqJw4gydEIhyvuKZS2uPqJ3GyURUUa?usp=sharing)
