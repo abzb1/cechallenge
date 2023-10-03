@@ -10,7 +10,8 @@ HellaSwag dataset Validation set에 대해 1.5x 가속(60s -> 40s)
 ### 코드 사용법   
 conda 환경에서 torchrun.sh 파일을 이용하여 멀티프로세스 스폰   
 각각 inference_base의 torchrun.sh과 inference_pipelined의 torchrun.sh로 구성   
+실행인자에 data-path, tokenizer-path, ckpt-path를 명확히 지정하면 됨 
 
-#### PP 가중치
+### PP 가중치
 아래 구글 드라이브 링크 활용   
 링크
