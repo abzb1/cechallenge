@@ -13,5 +13,4 @@ conda 환경에서 torchrun.sh 파일을 이용하여 멀티프로세스 스폰
 실행인자에 data-path, tokenizer-path, ckpt-path를 명확히 지정하면 됨 
 
 ### PP 가중치
-아래 구글 드라이브 링크 활용   
-[링크](https://drive.google.com/drive/folders/1mfmqJw4gydEIhyvuKZS2uPqJ3GyURUUa?usp=sharing)
+알아서 만들 것
