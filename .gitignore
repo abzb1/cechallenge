@@ -1,0 +1,5 @@
+log
+v1_30b/inference_base/ckpt_base/*
+v1_30b/inference_pipelined/pp_ckpt/*
+v2_70b/inference_base/ckpt_base/*
+v2_70b/inference_pipelined/pp_model/*
