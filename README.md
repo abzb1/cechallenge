@@ -13,4 +13,7 @@ conda 환경에서 torchrun.sh 파일을 이용하여 멀티프로세스 스폰
 실행인자에 data-path, tokenizer-path, ckpt-path를 명확히 지정하면 됨 
 
 ### PP 가중치
-알아서 만들 것
+whole_model을 먼저 만들고 pp_model을 만들면 됨
+
+v2 70B도 추가 8-way TP to 8-way PP
+HellaSwag 1.72X 가속 (7000s -> 4063s)
