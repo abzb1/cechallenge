@@ -1,5 +1,5 @@
 # cechallenge
-https://cechallenge.github.io/   
+삼성 [CEChallenge 2023](https://cechallenge.github.io/)   
 
 사용한 환경이 권한상 docker를 사용할 수 없는 환경이라 conda를 사용함   
 conda 환경은 yaml파일로 업드로 해두었음 [링크](https://github.com/abzb1/cechallenge/blob/main/cechallenge.yaml)   
@@ -15,5 +15,6 @@ conda 환경에서 torchrun.sh 파일을 이용하여 멀티프로세스 스폰
 ### PP 가중치
 whole_model을 먼저 만들고 pp_model을 만들면 됨
 
-v2 70B도 추가 8-way TP to 8-way PP
+### 서울 시립대학교 공과대학 실전문제연구단(2023/12 ~ 2024/02)과정에서 V2 추가
+v2 70B도 추가 8-way TP to 8-way PP   
 HellaSwag 1.72X 가속 (7000s -> 4063s)
